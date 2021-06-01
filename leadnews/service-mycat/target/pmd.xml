@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.6.1" timestamp="2021-02-14T22:36:59.953">
+<file name="F:\leadnews\leadnews\service-mycat\src\main\java\com\siyi\BurstRuleAlgorithm.java">
+<violation beginline="6" endline="71" begincolumn="8" endcolumn="1" rule="ClassMustHaveAuthorRule" ruleset="AlibabaJavaComments" package="com.siyi" class="BurstRuleAlgorithm" priority="3">
+【BurstRuleAlgorithm】缺少包含@author的注释信息
+</violation>
+<violation beginline="8" endline="8" begincolumn="13" endcolumn="24" rule="CommentsMustBeJavadocFormatRule" ruleset="AlibabaJavaComments" package="com.siyi" class="BurstRuleAlgorithm" variable="volume" priority="3">
+字段【volume】必须使用javadoc形式的注释
+</violation>
+<violation beginline="10" endline="10" begincolumn="13" endcolumn="25" rule="CommentsMustBeJavadocFormatRule" ruleset="AlibabaJavaComments" package="com.siyi" class="BurstRuleAlgorithm" variable="step" priority="3">
+字段【step】必须使用javadoc形式的注释
+</violation>
+<violation beginline="12" endline="12" begincolumn="13" endcolumn="24" rule="CommentsMustBeJavadocFormatRule" ruleset="AlibabaJavaComments" package="com.siyi" class="BurstRuleAlgorithm" variable="mod" priority="3">
+字段【mod】必须使用javadoc形式的注释
+</violation>
+<violation beginline="24" endline="24" begincolumn="32" endcolumn="32" rule="UndefineMagicConstantRule" ruleset="AlibabaJavaConstants" package="com.siyi" class="BurstRuleAlgorithm" method="calculate" priority="3">
+魔法值【2】
+</violation>
+</file>
+</pmd>
