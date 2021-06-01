@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="annotations">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_sdk/0.20.3.0-beta/annotations.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

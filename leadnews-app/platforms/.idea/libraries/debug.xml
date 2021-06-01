@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.4.0_3ce311c54ef5b9228e1fdb8f0be6a49777d71fe8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_f73888bd0783cdab64b0d8f30c9cd0ea09a984cc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_a713e695c852597195459f84f076fcc45b855b98.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_1317e98d799da9912dcf896f81f8630f697f27b2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/weexplugin-annotation-1.3_48159b87487d96de92929dff926e4f76d4d1c870.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.1.0_90763745580528fb5975bcad61b11c6c0effc170.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.1.0_025eb4ad6cf783585a86597bae0299d5c94a33c8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_5ac7b88836a70660e1257b283b0689173ee7e084.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.1.0_6ef128b88c0d6d41d455f1b8aa812126495fba37.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_0d649e59e69593ad05e7c619e6a76d12351e87bf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_23b2cb5135bfa3a962b0b60a1e3753c141d57e99.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_f44e18b63550512887c31c8259d263a5353b7039.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/debug_8447d3ebb9cb1bd6968cf47f1afad4938b45ea81.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_e170d1d5e96b7f692cef463dd32b57febcaadc2b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weexplugin-loader-1.3_153acf41485c91e928d1efb845553c99d453e58c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_b0ed9ae155021652b2c5ed683f5473bcbe4a55f6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0_0ca15cf0812c2d46991c3797e6cec1ee62113897.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_5de16d0f472bc225423557825ddee8cb503eb484.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_sdk-0.20.3.0-beta_09434c1a8a52cdfba9149068e8cf27d39e3b690a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_c22d77b38439ccc6277032f302509a84b9ab5dee.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.1.0_aaa13c5b954f9d5996ff302117ec780fccd9d002.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.3.0_f9f90868d9218c7e581f9d4888082e711c6e87e3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/fastjson-1.1.46.android_6ae7a9769dfcf1e0bcae0e94f19bdc2fa5c91e6e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.1.0_5c6f8c0b86a64b62c7076326aab9ed1f8f07e600.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.1.0_a4bdc39820009d1ab4a871c7b674b26e5f712362.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_inspector-0.20.3.0-beta_bc7c19d093f5cac333ec6dbca1b60b57691d4b46.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/weexplugin-processor-1.3_150fd86e1a2270f6c2cbc304c208866fc37e77a8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/okio-1.3.0_7ccae2e7d321bed0c49064478f345d5579beeb8d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_07509719a2e6b8882c89edd5dcf5ea61ce221de0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_560ea617df65348ad54b59e6f2979e853865e3fc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
