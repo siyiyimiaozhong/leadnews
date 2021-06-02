@@ -68,7 +68,7 @@
 
 ![3-4](https://gitee.com/siyiyimiaozhong/images/raw/master/img/20210602102048.png)
 
-- Weex+Vue+WebSocket ：使用Weex跨平台开发工具，整合集成VUE框架，完成黑马头条移动端功能开发，并集成WebSocket实现即时消息（文章推荐、私信）的推送
+- Weex+Vue+WebSocket ：使用Weex跨平台开发工具，整合集成VUE框架，完成头条系统移动端功能开发，并集成WebSocket实现即时消息（文章推荐、私信）的推送
 
 - Vue+Echarts ： 自媒体系统使用Vue开发关键，集成Echarts图表框架，完成相关粉丝画像、数据分析等功能
 
